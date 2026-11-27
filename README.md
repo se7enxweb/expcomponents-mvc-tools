@@ -2,7 +2,7 @@
 
 The MvcTools component provides functionality for request parsing, routing, dispatching, views and response writing. With the tools in this component you can very easily build an MVC framework.
 
-This is the Exponential fork of [zetacomponents/MvcTools](https://github.com/zetacomponents/MvcTools),
+This is the Exponential Components fork of [zetacomponents/MvcTools](https://github.com/zetacomponents/MvcTools),
 maintained by 7x (se7en.x) and the Exponential Foundation for Exponential and anyone else
 who uses the Zeta Components MvcTools component on current PHP versions. All credit for the
 component goes to the Zeta Components authors listed in `composer.json` and `CREDITS`;
